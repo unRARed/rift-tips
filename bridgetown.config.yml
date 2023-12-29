@@ -16,11 +16,20 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
+defaults:
+  - values:
+      layout: bridgetown_docs_template/layout
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.com
+collections:
+  error_pages:
+    output: true
+    permalink: pretty
+    future: true
+
+url: "https://rift.tips" # the base hostname & protocol for your site, e.g. https://example.com
 
 permalink: pretty
-template_engine: liquid
+template_engine: erb
 
 # Other options you might want to investigate:
 #
@@ -29,8 +38,9 @@ template_engine: liquid
 # If you're using esbuild for frontend assets, edit `esbuild.config.js` to
 # update `publicPath`.
 
-# timezone: America/Los_Angeles
+timezone: America/Los_Angeles
 # pagination:
 #   enabled: true
 development:
   bind: "tcp://0.0.0.0:3000"
+

@@ -4,8 +4,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.metadata.myvariable }}.
 
-title: Your awesome title
-tagline: This site is totally awesome
-email: your-email@example.com
+title: Wild Rift Tips
+tagline: Stop getting flamed and win more games.
+email: wild@rift.tips
 description: >-
-  Write an awesome description for your new site here. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+  Congratulations on making it to Platinum/Emerald in Wild Rift!
+  This guide hopes to smooth out your transition towards
+  the higher ranks and perhaps keep your ADC from trolling
+  so hard.
