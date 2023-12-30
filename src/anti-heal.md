@@ -29,5 +29,5 @@ the enemy.
 
 #### Sources for this Material
 
-- [Liquipedia](https://liquipedia.net/wildrift/Grievous_Wounds)
-- [Roonby](https://roonby.com/2023/02/23/league-of-legends-wild-rift-guide-for-anti-heal/)
+- [Liquipedia](https://liquipedia.net/wildrift/Grievous_Wounds){:target="_blank"}
+- [Roonby](https://roonby.com/2023/02/23/league-of-legends-wild-rift-guide-for-anti-heal/){:target="_blank"}
