@@ -1,5 +1,6 @@
 ---
 title: About
+priority: 999
 ---
 
 This is the combined effort of a few lazy, middle-aged gamers (and maybe
